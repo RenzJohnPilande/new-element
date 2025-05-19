@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Advertising and Promotion",
+    "description": "Elevate your brand's visibility and reach with our comprehensive advertising and promotion services. From targeted marketing campaigns to strategic partnerships, we craft tailored solutions to amplify your message and connect with your audience effectively. Let us help you stand out in a competitive landscape and drive meaningful results for your business.",
+    "image": "/images/businesses/Advertising-and-promotion.jpg",
+    "link": "/business/promotion"
+  },
+  {
+    "title": "Event Coordination",
+    "description": "Trust our expert event coordination team to bring your vision to life and create unforgettable experiences. Whether you're planning a corporate golf event, tournament, or outing, we handle every detail with precision and care. From venue selection to logistics and execution, we ensure seamless events that leave a lasting impression on participants and guests.",
+    "image": "/images/businesses/Event-coordination.jpg",
+    "link": "/business/event"
+  },
+  {
+    "title": "Professional Athlete Agent",
+    "description": "Partner with our experienced athlete agency to unlock new opportunities and maximize your potential. With a dedicated team of professionals, we represent top talent in the golf industry and provide comprehensive management services. From contract negotiations to brand endorsements, we tailor our approach to support athletes in achieving their goals both on and off the course.",
+    "image": "/images/businesses/Professional-Athlete-agent.jpg",
+    "link": "/business/agent"
+  },
+  {
+    "title": "Golf Tourism / Traveling",
+    "description": "Embark on unforgettable golf adventures with our customized tourism and travel services. Whether you're planning a solo getaway, corporate retreat, or group tour, we design tailored itineraries that cater to your preferences and objectives. From renowned golf destinations to hidden gems, let us guide you on a journey filled with tee times, relaxation, and exploration.",
+    "image": "/images/businesses/Golf-tourism-traveling.jpg",
+    "link": "/business/tourism"
+  },
+  {
+    "title": "Golf Apparel and Accessories",
+    "description": "Elevate your golf game with our stylish and functional apparel and accessories. From performance-driven clothing to trendy accessories, we've got everything you need to look and feel your best on the course.",
+    "image": "/images/businesses/Golf-Apparel-and-accessories.jpg",
+    "link": "/business/apparel"
+  },
+  {
+    "title": "Golf Technology and Information",
+    "description": "Explore our innovative range of golf technology designed to enhance your game. From swing analyzers to GPS trackers, our cutting-edge gadgets provide valuable insights and help you improve your performance on the course.",
+    "image": "/images/businesses/Golf-tech.jpg",
+    "link": "/business/technology"
+  },
+  {
+    "title": "Golf Equipments",
+    "description": "Discover high-quality golf equipment built for precision and performance. From clubs and balls to bags and accessories, our extensive range of equipment ensures you have everything you need to excel on the fairway.",
+    "image": "/images/businesses/Golf-equipment.jpg",
+    "link": "/business/equipment"
+  },
+  {
+    "title": "Golf Cart",
+    "description": "Experience convenience and comfort on the course with our premium golf carts. Our fleet of state-of-the-art carts ensures a smooth and enjoyable ride, allowing you to focus on your game without any distractions.",
+    "image": "/images/businesses/Golf-cart.jpg",
+    "link": "/business/cart"
+  }
+]

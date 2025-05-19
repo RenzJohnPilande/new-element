@@ -1,0 +1,41 @@
+* {
+  font-family: "Roboto", sans-serif;
+  /* font-family: Helvetica, Arial, sans-serif; */
+}
+.text-muted-foreground {
+  color: white !important;
+}
+.card-shadow-right {
+  box-shadow: 5px 5px #001022;
+}
+.card-shadow-left {
+  box-shadow: -5px 5px #001022;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 1px black;
+}
+
+.bg-values {
+  background-image: url("/images/background/core-values.jpg");
+}
+.bg-strategy {
+  background-image: url("/images/background/strategy.jpg");
+}
+.bg-history {
+  background-image: url("/images/background/history.jpg");
+}
+.bg-environment {
+  background-image: url("/images/background/environment.jpg");
+}
+.bg-csr {
+  background-image: url("/images/background/community.jpg");
+}
+.bg-vision {
+  background-image: url("/images/background/vision.jpg");
+}
+
+.section-background {
+  background-position: center;
+  background-size: cover;
+}
